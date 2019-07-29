@@ -1,3 +1,62 @@
+html {
+background-image: url(https://image.shutterstock.com/image-vector/pop-art-color-background-memphis-600w-1351562561.jpg)
+}
+  h1{
+    display: block;
+    padding-right: 100px;
+    margin: auto;
+    font-style: italic;
+    color: #011936;
+    font-family: 'Boogaloo';
+    text-align: center;
+    font-size: 100px;
+  }
+
+  h2{
+    display: block;
+    padding-right: 100px;
+    margin: auto;
+    font-style: italic;
+    color: #ED254E;
+    font-family: 'Boogaloo';
+    text-align: center;
+    font-size: 50px;
+  }
+
+  h3{
+    display: block;
+    padding-right: 100px;
+    margin: auto;
+    font-style: italic;
+    color: #011936;
+    font-family: 'Boogaloo';
+    text-align: center;
+    font-size: 100px;
+  }
+
+  p{
+    display: block;
+    padding-right: 100px;
+    margin: auto;
+    font-style: italic;
+    color: #011936;
+    font-family: 'Boogaloo';
+    text-align: center;
+    font-size: 50px;
+  }
+
+  form{
+    display: block;
+    padding-right: 100px;
+    margin: auto;
+    font-style: italic;
+    color: #ED254E;
+    font-family: 'Boogaloo';
+    text-align: center;
+    font-size: 50px;
+  }
+
+
 .App {
   text-align: center;
 }
@@ -16,7 +75,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #D7CDCC;
 }
 
 .App-link {
